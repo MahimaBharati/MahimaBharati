@@ -1,6 +1,6 @@
 # Hi There 👋, I am Mahima Bharati
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=MahimaBharati&show_icons=true&theme=radical" >
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=MahimaBharati&show_icons=true&theme=radical">
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahimaBharati&layout=compact" >
 
